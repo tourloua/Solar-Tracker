@@ -24,7 +24,14 @@ body {
     box-sizing: border-box;
 }
 
+a {
+    color: #30fc03; /* Your desired color for the link */
+    text-decoration: none; /* Optional: Removes underline */
+}
 
+a:hover {
+    color: #fdcac4; /* Optional: Color when hovering over the link */
+}
 
 .back-text {
     position: fixed;
