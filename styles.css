@@ -26,7 +26,6 @@ body {
 
 a {
     color: #30fc03; /* Your desired color for the link */
-    text-decoration: none; /* Optional: Removes underline */
 }
 
 a:hover {
